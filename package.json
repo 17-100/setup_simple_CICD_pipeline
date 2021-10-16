@@ -1,0 +1,20 @@
+{
+  "name": "setup_simple_cicd_pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.2.5",
+    "node-fetch": "^3.0.0",
+    "superagent": "^6.1.0",
+    "supertest": "^6.1.6"
+  }
+}
